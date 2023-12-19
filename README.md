@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/23004426/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979327/f511b2bc-e5c7-4c7b-a258-1fb28d75d670)
+
 ### Output:
 
+![Screenshot 2023-12-19 172345](https://github.com/23004426/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979327/5b72f6eb-9dfa-434f-8261-b4ad771b0e76)
 
-### Name:
-### Register Number:
+
+### Name:Tirupathi Jayadeep
+### Register Number: 23004426
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
